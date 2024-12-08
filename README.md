@@ -17,6 +17,10 @@ https://app.powerbi.com/view?r=eyJrIjoiYTE3ZWFiYjYtNTQ0Yi00ZTZiLThkYWUtNjM2MDYyO
 
 
 
+Video Presentation link : https://www.youtube.com/watch?v=6mrZLGgUMNc
+
+
+
 Below are snippets from Dashboard
 
 
