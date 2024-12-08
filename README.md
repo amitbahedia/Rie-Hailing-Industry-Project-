@@ -15,7 +15,11 @@ Key Insights are summarised in Presentation along with  (Fine Name : Operational
 **Dashboard Link : **
 https://app.powerbi.com/view?r=eyJrIjoiYTE3ZWFiYjYtNTQ0Yi00ZTZiLThkYWUtNjM2MDYyOTJhYWFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-Below are snippets Dashboard
+
+
+Below are snippets from Dashboard
+
+
 **Company profile**
 ![image](https://github.com/user-attachments/assets/c39cdb14-3915-4a03-bc0e-b9e2dae5306b)
 
