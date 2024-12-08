@@ -10,7 +10,7 @@ However, the Chief of Operations, Bruce Haryali, wanted this immediately but the
 
 ****Tools Used** **: Power BI and SQL are used for processing data and insights generation. Visuals are generated through Power BI
 
-Key Insights are summarised in Presentation along with  (Fine Name : Operational Performance Analysis and Insights)
+Key Insights are summarised in Presentation file (File Name : Operational Performance Analysis and Insights)
 
 **Dashboard Link : **
 https://app.powerbi.com/view?r=eyJrIjoiYTE3ZWFiYjYtNTQ0Yi00ZTZiLThkYWUtNjM2MDYyOTJhYWFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
